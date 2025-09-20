@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋 I'm Romain  
+
+🎓 I'm a student in **Data Engineering** at [HEIG-VD](https://heig-vd.ch/) in Switzerland.  
+💡 Passionate about **data science, machine learning, and software development**.  
+🌍 Curious about how technology can solve real-world problems.  
+
 
 <!--
 **romain-drsl/romain-drsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
